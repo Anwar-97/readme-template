@@ -83,9 +83,10 @@ https://www.w3schools.com
 [websitelink]:https://www.w3schools.com  
 
 ### image syntax  
-![background](./images/demo.jpg)  
-
-![Alt text](image-2.png)  
+ 
+<img src="./demo.jpg/ width="400"
+ title="background image"/>  
+ 
 
 ### Table syntax  
 
